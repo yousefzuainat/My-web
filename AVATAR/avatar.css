@@ -17,12 +17,12 @@ body {
 .containar {
     height: 640px;
     width: 90%;
-    background-image: linear-gradient(to right, #01022db3 30%, rgba(0, 0, 0, 0.523) 47%), url(../../Worthington-Saldana-2-d9b924b.jpeg);
+    background-image: linear-gradient(to right, #01022db3 30%, rgba(0, 0, 0, 0.523) 47%), url(./Worthington-Saldana-2-d9b924b.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-.containar:hover{background-image: linear-gradient(to right, #01022db3 47%,transparent), url(../../Worthington-Saldana-2-d9b924b.jpeg);
-    background-repeat: no-repeat;
+.containar:hover{background-image: linear-gradient(to right, #01022db3 47%,transparent), url(./Worthington-Saldana-2-d9b924b.jpeg)
+   ; background-repeat: no-repeat;
     background-size: cover;}
 header{
     display: flex;justify-content: space-between;align-items: center;padding: 10px;
